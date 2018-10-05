@@ -26,7 +26,7 @@ SECRET_KEY = 'h_!*i4dbe!ds%zb3(n)mc+75*^3a(%fdhxd5)bg)$$p2n1m5v2'
 DEBUG = True
 
 ALLOWED_HOSTS = ["django-env.u36i6w6jer.us-west-2.elasticbeanstalk.com"]
-
+ 
 
 # Application definition
 
@@ -105,7 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Europe/Minsk'
 
 USE_I18N = True
 
