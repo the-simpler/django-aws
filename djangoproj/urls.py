@@ -23,3 +23,5 @@ urlpatterns = [
 
 
 test = []
+
+test2 = []
